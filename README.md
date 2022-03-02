@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React: De cero a experto ( Hooks y MERN )**
 
-- 💬 Ask me about **react, mongoose, mongoDB and express**
+- 💬 Ask me about **React, Express, Nodejs and MongoDB**
 
 - 📫 How to reach me **gonzalodecastro1@gmail.com**
 
