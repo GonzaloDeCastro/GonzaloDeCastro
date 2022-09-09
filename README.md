@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [API-Marvel](https://api-marvel-2022.herokuapp.com/)
 
-- 🌱 I’m currently learning **React: De cero a experto ( Hooks y MERN )**
+- 🌱 I’m currently working on Football Income Generator Proyect for GLOOUDS company**
 
 - 💬 Ask me about **React, Express, Nodejs and MongoDB**
 
