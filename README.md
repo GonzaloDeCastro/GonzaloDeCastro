@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gonzalo</h1>
 <h3 align="center">A passionate developer from Argentina</h3>
 
-- 🔭 I’m currently working on [API-Marvel](https://api-marvel-2022.herokuapp.com/)
 
 - 🌱 I’m currently working on Football Income Generator Proyect for GLOOUDS company**
 
