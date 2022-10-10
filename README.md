@@ -2,11 +2,11 @@
 <h3 align="center">A passionate developer from Argentina</h3>
 
 
-- 🌱 I’m currently working on Football Income Generator Proyect for GLOOUDS company**
+- 💼 I’m currently working at <a href="https://www.gloouds.com/" target="blank">**GLOOUDS**</a>.
 
-- 💬 Ask me about **React, Express, Nodejs and MongoDB**
+- 💬 Ask me about **React, Express, Nodejs and MongoDB**.
 
-- 📫 How to reach me **gonzalodecastro1@gmail.com**
+- 📫 How to reach me **gonzalodecastro1@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
