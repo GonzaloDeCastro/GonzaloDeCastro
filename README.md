@@ -2,9 +2,9 @@
 <h3 align="center">A passionate developer from Argentina</h3>
 
 
-- 💼 I’m currently working at <a href="https://www.gloouds.com/" target="blank">**GLOOUDS**</a>.
+- 💼 I’m currently working at <a href="https://blcglobal.net/powergeneration/en/" target="blank">**BLC Power Genartion**</a>.
 
-- 💬 Ask me about **React, Express, Nodejs and MongoDB**.
+- 💬 Ask me about **Python, React, Express, Nodejs, MongoDB and MySQL**.
 
 - 📫 How to reach me **gonzalodecastro1@gmail.com**.
 
