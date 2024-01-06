@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Argentina</h3>
 
 
-- 💼 I’m currently working at <a href="https://blcglobal.net/powergeneration/en/" target="blank">**BLC Global**</a>.
+- 💼 I’m currently working at <a href="https://blcglobal.net/en/" target="blank">**BLC Global**</a>.
 
 - 💬 Ask me about **Python, React, Express, Nodejs, MongoDB and MySQL**.
 
