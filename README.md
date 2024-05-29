@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Argentina</h3>
 
 
-- 💻 I’m currently working at <a href="https://seidoranalytics.com/en/" target="blank">**Seidor Analytics**</a>.
+- 💻 I’m currently working at <a href="https://seidoranalytics.com/en/" target="blank">**Seidor Analytics**</a> as Sofwtware Engineer.
 
 - 💬 Ask me about **Python, React, Express, Nodejs, MongoDB and MySQL**.
 
