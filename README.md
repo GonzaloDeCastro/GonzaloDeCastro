@@ -2,13 +2,13 @@
 <h3 align="center">A passionate developer from Argentina</h3>
 
 
-- 💻 I’m currently working at <a href="https://seidoranalytics.com/en/" target="blank">**Seidor Analytics**</a> as Sofwtware Engineer.
+- 💻 I’m currently working at <a href="https://seidoranalytics.com/en/" target="blank">**Seidor Analytics**</a> as a Software Engineer.
 
 - 💬 Ask me about **Python, React, Express, Nodejs, MongoDB and MySQL**.
 
 - 📫 How to reach me **gonzalodecastro1@gmail.com**.
 
-- 💼 Please come and review my <a href="https://gonzalodecastro.github.io/portfolio/" target="blank">**Portfolio**</a>.
+- 💼 Please feel free to review my <a href="https://gonzalodecastro.github.io/portfolio/" target="blank">**Portfolio**</a>.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gonzalo-de-castro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https:www.linkedin.com/in/gonzalo-de-castro/" height="30" width="40" /></a>
