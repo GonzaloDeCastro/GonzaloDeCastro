@@ -4,7 +4,7 @@
 
 - 💻 I’m currently working at <a href="https://seidoranalytics.com/en/" target="blank">**Seidor Analytics**</a> as a Software Engineer.
 
-- 💬 Ask me about **Python, React, Express, Node.js, MongoDB, and MySQL**.
+- 💬 Ask me about **Python, React, Node.js, MongoDB, and MySQL**.
 
 - 📫 How to reach me **gonzalodecastro1@gmail.com**.
 
