@@ -16,7 +16,7 @@ where I design and develop custom software solutions for small and medium-sized 
 <a href="https://gonzalodecastro.github.io/portfolio/" target="blank"><strong>Portfolio</strong></a>.
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
 <a href="https://linkedin.com/in/gonzalo-de-castro/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
@@ -56,8 +56,5 @@ where I design and develop custom software solutions for small and medium-sized 
 </a>
 <a href="https://jwt.io/" target="_blank">
   <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" width="40" height="40"/>
-</a>
-<a href="https://www.figma.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width="40" height="40"/>
 </a>
 </p>
