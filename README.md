@@ -15,19 +15,18 @@
 </p>
 
 <h3 align="left">Skills and Tools:</h3>
-
-<table>
+<table border="0">
   <tr>
-    <td align="center" ><a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/><br/></a></td>
-    <td align="center"><a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/><br/></a></td>
-    <td align="center"><a href="https://vercel.com/" target="_blank"><img src="https://assets.vercel.com/image/upload/front/favicon/vercel/favicon.ico" width="40" height="40"/><br/></a></td>
-    <td align="center"><a href="https://www.python.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40"/><br/></a></td>
-    <td align="center"><a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/><br/></a></td>
-    <td align="center"><a href="https://redux.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40"/><br/></a></td>
-    <td align="center"><a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/><br/></a></td>
-    <td align="center"><a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/><br/></a></td>
-    <td align="center"><a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/><br/></a></td>
-    <td align="center"><a href="https://www.mysql.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/fr/6/62/MySQL.svg" width="40" height="40"/><br/></a></td>
-    <td align="center"><a href="https://jwt.io/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" width="40" height="40"/><br/></a></td>
+    <td align="center"><a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://vercel.com/" target="_blank"><img src="https://assets.vercel.com/image/upload/front/favicon/vercel/favicon.ico" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://www.python.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://redux.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://www.mysql.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/fr/6/62/MySQL.svg" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://jwt.io/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" width="40" height="40"/></a></td>
   </tr>
 </table>
